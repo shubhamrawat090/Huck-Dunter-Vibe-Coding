@@ -1,6 +1,7 @@
 # Duck Hunter Game
 
 This is a simple Duck Hunter game built with HTML, CSS, and JavaScript.
+Play Here: https://shubhamrawat090.github.io/Huck-Dunter-Vibe-Coding/
 
 ## How to Play
 
